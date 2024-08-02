@@ -1,0 +1,150 @@
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.offer-price{
+    font-size: 30px;
+}
+
+.main-price{
+    text-decoration: line-through;
+}
+
+.green-text{
+    color: rgb(46, 124, 46);
+}
+
+.text-bold{
+    font-weight:700
+}
+
+.grey-text{
+    color: rgb(83, 82, 82);
+}
+
+.rating{
+    background-color: rgb(34, 199, 34);
+    color: #ffffff;
+    padding: 2px 12px;
+    border-radius: 3px;
+}
+
+.item-container{
+    width: 86vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid grey;
+    padding: 6px ;
+    margin-top: 24px;
+    
+}
+.container1{
+    border-top: 1px solid grey;
+}
+ p{
+    line-height: 10px;
+}
+
+a{
+    text-decoration: none ;
+}
+
+.flifcart-assure{
+    width: 80px;
+margin-top: 18px;
+}
+
+.mobile-image{
+    width: 120px;
+}
+
+.m0bile-description{
+    line-height: 8px;
+}
+
+
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.item-mobile-container{
+    width: 93vw;
+    margin: 0px auto;
+}
+
+button{
+    padding: 0px 24px;
+}
+
+.heading{
+    width: 90vw;
+    margin: 0px auto;
+    margin-bottom:20px ;
+    border-bottom:1px solid rgb(186, 184, 184) ;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
+ 
+.heading > p{
+    font: size 20px ;
+}
+
+button{
+    display:inline-block ;
+    height: 48px;
+    background-color: rgb(82, 82, 221);
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 17px;
+    border: none;
+    border-radius: 2px;
+}
+
+.company{
+    font-size: 28px;
+    color: rgb(231, 231, 56);
+    font-weight: 900;
+    margin: 10px 0px;
+    margin-left: 80px;
+}
+
+.navigation{
+    background-color: rgb(82, 82, 221);
+    width: 100vw;
+    margin-left: -8px;
+    margin-top: -8px;
+    justify-content: space-between;
+    margin-bottom:20px ;
+}
+
+.links{
+    margin-right: 80px;
+    color: #ffffff;
+    width: 200px;
+    font-weight: 600;
+}
+
+.posters > img{
+    width: 80px;
+}
+
+.posters{
+    margin-bottom: 30px;
+    background-color: rgb(218, 213, 213);
+    padding: 6px 0px;
+    margin: 0px -8px;
+}
+
+input{
+    padding: 0px 20px;
+    width: 400px;
+    border: none;
+    height: 32px;
+    margin-top: 6px;
+    border-radius: 16px;
+}
+
+.image{
+    width: 200%;
+}
